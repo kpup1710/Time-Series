@@ -3,15 +3,13 @@
 ![1676792732644](image/assignment/1676792732644.png)
 
 $$
-\phi(B) = 1 + \phi_1 B + \phi_2 B^2 + ... + \phi_p B^p
-
+\phi(B) = 1 - \phi_1 B - \phi_2 B^2 - ... - \phi_p B^p
 $$
 
 and
 
 $$
-\theta(B) = 1 - \theta_1 B - \theta_2 B^2 - ... - \theta_q B^q
-
+\theta(B) = 1 + \theta_1 B + \theta_2 B^2 + ... + \theta_q B^q
 $$
 
 We have 
@@ -59,3 +57,7 @@ $$
 and we have $(6.3.4) $ representation.
 
 ![1676798639952](image/assignment/1676798639952.png)
+
+**I thought the example already did this?**
+
+![1676802875517](image/assignment/1676802875517.png)
